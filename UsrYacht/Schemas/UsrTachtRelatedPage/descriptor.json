@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "44118ff1-e7fc-4345-884a-72bb4e80dc2d",
+    "Name": "UsrTachtRelatedPage",
+    "ModifiedOnUtc": "\/Date(1771941704000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Tacht (Page settings)",
+    "DependsOn": []
+  }
+}

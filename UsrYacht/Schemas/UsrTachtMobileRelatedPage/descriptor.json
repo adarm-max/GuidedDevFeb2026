@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7856ca23-5d7a-4b79-a08a-82e8a014e6d7",
+    "Name": "UsrTachtMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1771941704000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Tacht (Mobile page settings)",
+    "DependsOn": []
+  }
+}

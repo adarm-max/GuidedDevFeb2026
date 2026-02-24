@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "3ad97755-f829-4080-a4fe-bcafda7d1ba3"
+= MetaData.Schema.A2 "UsrTacht_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["1e340c95-1d99-4a4a-b5e4-39915a8bbab6","a6b9622a-b6b1-4d7c-8128-1903e120cefb","d968c85b-c21d-4656-916b-859b142387c9","b5bf1a11-e316-40c0-8eab-b1fe08d09824"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
