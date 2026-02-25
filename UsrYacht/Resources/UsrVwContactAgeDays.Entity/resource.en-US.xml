@@ -3,11 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="UsrVwContactAgeDays" />
-			<Item Name="Columns.UsrAgeDays.Caption" Value="UsrAgeDays" />
-			<Item Name="Columns.UsrBirthDate.Caption" Value="UsrBirthDate" />
-			<Item Name="Columns.UsrContact.Caption" Value="Parent contact" />
+			<Item Name="Columns.UsrAgeDays.Caption" Value="Age in days" />
+			<Item Name="Columns.UsrBirthDate.Caption" Value="BirthDate" />
 			<Item Name="Columns.UsrId.Caption" Value="Id" />
-			<Item Name="Columns.UsrName.Caption" Value="UsrName" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
 		</Items>
 	</Group>

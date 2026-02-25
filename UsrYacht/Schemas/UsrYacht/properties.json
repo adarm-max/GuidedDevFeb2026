@@ -6,7 +6,6 @@
     "CreatedInVersion": "0.0.0.0",
     "IsSSPAvailable": "False",
     "IsTrackChangesInDB": "False",
-    "IsVirtual": "False",
-    "UseLiveEditing": "False"
+    "IsVirtual": "False"
   }
 }

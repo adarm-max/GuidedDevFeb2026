@@ -2,7 +2,7 @@
 <Resources Culture="sq-AL">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Test process" />
+			<Item Name="Caption" Value="Test process " />
 		</Items>
 	</Group>
 </Resources>

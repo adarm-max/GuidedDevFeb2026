@@ -2,7 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Traffic light" />
+			<Item Name="Caption" Value="Traffic Light" />
 			<Item Name="Columns.UsrCode.Caption" Value="Code" />
 			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
 		</Items>

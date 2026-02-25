@@ -2,18 +2,18 @@
   "MetaData": {
     "Schema": {
       "ManagerName": "EntitySchemaManager",
-      "UId": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
+      "UId": "ed19f360-e718-499d-8ba2-b392d1c6c162",
       "A2": "UsrVwContactAgeDays",
-      "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
+      "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
       "B1": [],
       "B2": [],
       "B3": [],
-      "B6": "f08ec734-f6fd-4ed8-b549-5864b2a6f460",
+      "B6": "b879d15c-41a4-4bc6-92fa-5ba324af3b2b",
       "B8": "8.3.2.4199",
       "EG1": {
-        "UId": "2a793535-b353-4034-a18c-2401d3c14269",
-        "A2": "UsrEntity_d056f38EventsProcess",
-        "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
+        "UId": "0f84a6a7-6666-4d85-b77b-abb7e0a0bece",
+        "A2": "UsrEntity_bf7fa27EventsProcess",
+        "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
         "B1": [],
         "B2": [],
         "B3": [],
@@ -51,52 +51,40 @@
       "D29": "null",
       "D30": "null",
       "D31": "null",
-      "D3": "ddc05f6f-121c-c6a3-7804-d4bd9b03767a",
+      "D3": "bb0d7f8a-4064-1574-1033-3eda5d998fa9",
       "D2": [
         {
-          "UId": "db05816f-7a11-c039-4478-63dac3d69ea0",
+          "UId": "910f9596-acc8-a230-cff7-1db974052241",
           "A2": "UsrAgeDays",
-          "A3": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A4": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
+          "A3": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A4": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
           "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
         },
         {
-          "UId": "0edbc580-e0a3-2515-6f30-27d5b4cdaf99",
+          "UId": "3766310d-c3e8-b688-0a44-82620885efd7",
           "A2": "UsrBirthDate",
-          "A3": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A4": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
+          "A3": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A4": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
           "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
         },
         {
-          "UId": "397c6b92-0d99-3d3e-5353-0cf7539bb353",
+          "UId": "57a913bf-c058-2deb-c4b8-e6bf3a7d0e72",
           "A2": "UsrName",
-          "A3": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A4": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
+          "A3": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A4": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
           "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
         },
         {
-          "UId": "ddc05f6f-121c-c6a3-7804-d4bd9b03767a",
+          "UId": "bb0d7f8a-4064-1574-1033-3eda5d998fa9",
           "A2": "UsrId",
-          "A3": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A4": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
-          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd"
-        },
-        {
-          "UId": "8e343b53-44b9-f3e3-3a34-6f5494b10fc8",
-          "A2": "UsrContact",
-          "A3": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A4": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
-          "A5": "e632bc32-cd40-4665-b11b-708a025af63e",
-          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
-          "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
-          "E6": true,
-          "E20": true,
-          "E17": "UsrContactId",
-          "E18": "UsrContactName"
+          "A3": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A4": "ed19f360-e718-499d-8ba2-b392d1c6c162",
+          "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "E2": 1
         }
       ],
       "D6": [],
@@ -122,7 +110,7 @@
       },
       "D35": {},
       "D36": {
-        "A3": "07fe83b0-e521-4df1-9878-e408e1a4eeb4",
+        "A3": "ed19f360-e718-499d-8ba2-b392d1c6c162",
         "BS1": false
       }
     }
