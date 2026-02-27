@@ -1,28 +1,35 @@
-{
+﻿{
   "MetaData": {
     "Schema": {
       "ManagerName": "AddonSchemaManager",
-      "UId": "5d0ca4bc-0075-4d77-b55c-082e8f9c671a",
+      "UId": "faa066cb-17bb-4945-8d03-9f5b1156583d",
       "A2": "UsrYachtRelatedPage",
-      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
       "B1": [],
       "B2": [],
       "B3": [],
-      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
-      "B8": "0.0.0.0",
-      "AD1": "938f183e-695d-4318-abad-df7b095c8e8d",
+      "B6": "b879d15c-41a4-4bc6-92fa-5ba324af3b2b",
+      "B8": "8.3.2.4199",
+      "AD1": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
       "AD2": "EntitySchemaManager",
       "AD3": "RelatedPage",
       "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
       "AD4": {
-        "Pages": [
-          {
-            "UId": "554cf1f5-0f54-4971-a659-c61ac36acaa4",
-            "PageSchemaUId": "8d690cdc-0867-48da-b7f1-153a095fd2b4",
-            "IsDefault": true
-          }
-        ]
-      }
+  "Pages": [
+    {
+      "UId": "96861273-f4d3-0c23-41bb-58a70568e48b",
+      "PageSchemaUId": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
     }
   }
 }

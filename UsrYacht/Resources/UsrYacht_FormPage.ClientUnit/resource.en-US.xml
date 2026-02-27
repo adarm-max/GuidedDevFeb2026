@@ -3,6 +3,14 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push Me" />
+			<Item Name="LocalizableStrings.addRecord_26yvg7p_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_45h3scy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_5v3sabq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_bvk3r8d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rwklnfl_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_s5ohz3d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_x187ltu_caption.Value" Value="Add new" />
 		</Items>
 	</Group>
 </Resources>
