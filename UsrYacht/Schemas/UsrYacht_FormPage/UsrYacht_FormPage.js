@@ -64,7 +64,7 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 				"values": {
 					"type": "crt.Button",
 					"caption": "#ResourceString(PushMeButton_caption)#",
-					"color": "default",
+					"color": "outline",
 					"disabled": false,
 					"size": "medium",
 					"iconPosition": "left-icon",

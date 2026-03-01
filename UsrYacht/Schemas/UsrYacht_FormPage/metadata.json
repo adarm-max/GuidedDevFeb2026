@@ -23,13 +23,6 @@
   "A5": "c579a08f-3428-4659-b8c4-1639d6ff4f2d"
 }
 + MetaData.Schema.B2 {
-  "UId": "e1a285c2-5bbd-9996-bb6b-f4cd663bd7ac",
-  "A2": "PushMeButton_caption",
-  "A3": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
-  "A4": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
-  "A5": "c579a08f-3428-4659-b8c4-1639d6ff4f2d"
-}
-+ MetaData.Schema.B2 {
   "UId": "e50d8c47-b84e-d77e-134f-ebbaed99f6f2",
   "A2": "addRecord_x187ltu_caption",
   "A3": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
@@ -53,6 +46,13 @@
 + MetaData.Schema.B2 {
   "UId": "f10c7fee-896c-8b06-c8f6-4ef035b80966",
   "A2": "addRecord_5v3sabq_caption",
+  "A3": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
+  "A4": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
+  "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c"
+}
++ MetaData.Schema.B2 {
+  "UId": "cca38b8d-8348-7cf4-7cd3-da7f42019cc1",
+  "A2": "PushMeButton_caption",
   "A3": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
   "A4": "692dd1eb-6e2f-4a14-bdc4-75bb305a540d",
   "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c"
@@ -87,11 +87,11 @@
   "afcd84d0-c827-b4f0-f3da-3856d1816373",
   "d36faac0-ee79-57db-8cf4-30454799d1a0",
   "9186c447-95a0-38a4-774b-8f2fd5175b42",
-  "e1a285c2-5bbd-9996-bb6b-f4cd663bd7ac",
   "e50d8c47-b84e-d77e-134f-ebbaed99f6f2",
   "7a9389be-d265-ca6e-9aec-052d20eda851",
   "f61b309e-bd2e-f063-ccde-f25f20408b60",
   "f10c7fee-896c-8b06-c8f6-4ef035b80966",
+  "cca38b8d-8348-7cf4-7cd3-da7f42019cc1",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
