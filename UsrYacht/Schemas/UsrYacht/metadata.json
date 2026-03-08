@@ -122,6 +122,40 @@
   "E17": "UsrStatusId",
   "E18": "UsrStatusName"
 }
++ MetaData.Schema.D2 {
+  "UId": "d7e734c6-dd40-30be-29bb-c511b9716a85",
+  "A2": "UsrCity",
+  "A3": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
+  "A4": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
+  "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "5ca90b6a-93e7-4448-befe-ab5166ec2cfe",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCityId",
+  "E18": "UsrCityName"
+}
++ MetaData.Schema.D2 {
+  "UId": "7dddf35c-16c8-b6d3-e004-276f45d5ef4f",
+  "A2": "UsrCountry",
+  "A3": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
+  "A4": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
+  "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "09fce1f8-515c-4296-95cd-8cd93f79a6cf",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCountryId",
+  "E18": "UsrCountryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "ea5a83dc-a751-e0c8-a6bf-236a54c5e927",
+  "A2": "UsrTicketPrice",
+  "A3": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
+  "A4": "fd57b283-868f-4fdb-bc65-4a52356a0f6b",
+  "A5": "28280b10-e2c3-4d85-9abe-ce1dd8aab49c",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
   "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -136,7 +170,10 @@
   "9fb1557f-90b2-7c22-6935-efa7f37b6f5a",
   "c555c48e-8448-6423-62c4-8b2a5e8e75f6",
   "a68e5215-a645-1429-3b20-e56a53aed75d",
-  "8be04da0-4047-78b8-1bad-518a0de18b4a"
+  "8be04da0-4047-78b8-1bad-518a0de18b4a",
+  "d7e734c6-dd40-30be-29bb-c511b9716a85",
+  "7dddf35c-16c8-b6d3-e004-276f45d5ef4f",
+  "ea5a83dc-a751-e0c8-a6bf-236a54c5e927"
 ]
 = MetaData.Schema.D20.A2 "UsrYachtEvents"
 + MetaData.Schema.D20.FA1 false
